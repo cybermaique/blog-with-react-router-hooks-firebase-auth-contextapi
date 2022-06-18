@@ -40,6 +40,8 @@ form {
   margin: 0 auto;
 }
 
+
+/* formata o input abaixo do span */
 label {
   display: flex;
   flex-direction: column;
@@ -101,14 +103,17 @@ textarea::placeholder {
   background-color: #000;
 }
 
+/* para deletar */
 .btn.btn-danger:hover {
   background-color: #dc3545;
 }
 
+/* para os botões desabilitados */
 button[disabled] {
   background-color: #aaa;
 }
 
+/* erros de formulário */
 .container .error {
   color: #721c24;
   background-color: #f8d7da;
