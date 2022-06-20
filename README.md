@@ -1,3 +1,5 @@
+# Em fase de desenvolvimento e melhorias*
+
 cmds:
 npx create-react-app myblog-with-auth-and-posts
 npm i firebase
